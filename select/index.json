@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Ave Mujica",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2025-12-18T09:10:27.667246Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ave Mujica",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/01_Ave_Mujica_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Griffith Park (2800 E. Observatory Ave.)",
+      "artist": "Gabriel Kahane",
+      "has_synced": true,
+      "path": "select/02_Griffith_Park_(2800_E._Observatory_Ave.)_Gabriel_Kahane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Party On Fifth Ave.",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/03_Party_On_Fifth_Ave._Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "61 Cygni Ave.",
+      "artist": "Neon Indian",
+      "has_synced": true,
+      "path": "select/04_61_Cygni_Ave._Neon_Indian.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ave Maria",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/05_Ave_Maria_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ave Maria",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/06_Ave_Maria_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ave Maria (Bach)",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/07_Ave_Maria_(Bach)_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ave Maria (Caccini)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/08_Ave_Maria_(Caccini)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ave Maria (Schubert)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/09_Ave_Maria_(Schubert)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ave Lolita",
+      "artist": "Black",
+      "has_synced": true,
+      "path": "select/10_Ave_Lolita_Black.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ave Maria",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/11_Ave_Maria_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wisconsin Ave",
+      "artist": "Kailee Morgue",
+      "has_synced": true,
+      "path": "select/12_Wisconsin_Ave_Kailee_Morgue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ave Mujica",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_Ave_Mujica_Ave_Mujica.txt"
+    }
+  ]
+}
